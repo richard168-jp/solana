@@ -1,6 +1,6 @@
 {
-  "name": "Tether USD",
+  "name": "Tether",
   "symbol": "USDT",
-  "description": "official Tether USD on Solana",
-  "image": ""
+  "description": "USDT is a digital dollar, powered by blockchain technology, a stablecoin that is pegged 1:1 to the USD.",
+  "image": "https://raw.githubusercontent.com/cryptic-agency/worlds/refs/heads/main/USDM.png"
 }
